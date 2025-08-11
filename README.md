@@ -44,10 +44,8 @@ The project aims to:
 
 ## 👥 Contributors
 
-- [Your Name] *(Add your name or team members here)*
+- [TITANIOMM]
 
----
 
-## 📜 License
 
-Specify your license here (e.g., MIT License).  
+
